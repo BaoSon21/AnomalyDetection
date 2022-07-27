@@ -4,8 +4,8 @@
 
 ### 1- Clone this repo:
 ``` bash
-git clone https://github.com/Niousha12/Knowledge_Distillation_AD.git
-cd Knowledge_Distillation_AD
+git clone https://github.com/BaoSon21/AnomalyDetection.git
+cd AnomalyDetection
 ```
 ### 2- Datsets:
 This repository performs Anomaly Detection in the following datasets: MVTecAD,
