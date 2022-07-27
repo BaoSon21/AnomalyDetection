@@ -2,10 +2,11 @@
 
 ```
 
-### 1- Clone this repo:
+1- Clone this repo:
 ``` bash
 git clone https://github.com/BaoSon21/AnomalyDetection.git
 cd AnomalyDetection
+Install requirements.txt
 ```
 ### 2- Datsets:
 This repository performs Anomaly Detection in the following datasets: MVTecAD,
